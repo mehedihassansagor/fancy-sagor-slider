@@ -1,0 +1,1 @@
+# fancy-sagor-slider
